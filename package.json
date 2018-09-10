@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Telegramm bot",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": "https://github.com/AVozhd/Bot1.git",
   "author": "Aleksei Vozhdaev <soulburglar@gmail.com>",
   "license": "MIT",
