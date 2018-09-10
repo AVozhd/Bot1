@@ -9,7 +9,9 @@
   "repository": "https://github.com/AVozhd/Bot1.git",
   "author": "Aleksei Vozhdaev <soulburglar@gmail.com>",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "dotenv": "^6.0.0"
+  },
   "dependencies": {
     "telegraf": "^3.23.0"
   }
